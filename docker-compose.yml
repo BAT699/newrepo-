@@ -1,0 +1,9 @@
+services:
+  bprc-server:
+    image: bat699/newrepo:tagname
+    build: .
+    ports:
+      - "5413:5413"
+    volumes:
+      - .:/usr/src/app
+    

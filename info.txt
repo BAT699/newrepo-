@@ -1,0 +1,346 @@
+[2024-11-21T09:03:11.027Z] Server running at http://localhost:5412
+[2024-11-21T09:03:15.633Z] Served: ./bprc.html
+[2024-11-21T09:03:15.661Z] Served: ./styles.css
+[2024-11-21T09:03:15.663Z] Served: ./script.js
+[2024-11-21T09:03:15.728Z] Error serving ./favicon.ico: ENOENT: no such file or directory, open './favicon.ico'
+[2024-11-21T09:05:10.086Z] Server running at http://localhost:5412
+[2024-11-21T09:08:51.187Z] Server running at http://localhost:5412
+[2024-11-21T09:08:56.072Z] Served: ./bprc.html
+[2024-11-21T09:08:56.094Z] Served: ./styles.css
+[2024-11-21T09:08:56.096Z] Served: ./script.js
+[2024-11-21T09:08:56.148Z] Error serving ./favicon.ico: ENOENT: no such file or directory, open './favicon.ico'
+[2024-11-21T09:08:56.403Z] Served: ./bprc.html
+[2024-11-21T09:08:56.420Z] Served: ./styles.css
+[2024-11-21T09:08:56.424Z] Served: ./script.js
+[2024-11-21T09:08:56.498Z] Error serving ./favicon.ico: ENOENT: no such file or directory, open './favicon.ico'
+[2024-11-21T09:10:20.301Z] Server running at http://localhost:5412
+[2024-11-21T09:10:23.703Z] Served: ./bprc.html
+[2024-11-21T09:10:23.723Z] Served: ./styles.css
+[2024-11-21T09:10:23.726Z] Served: ./script.js
+[2024-11-21T09:10:23.776Z] Error serving ./favicon.ico: ENOENT: no such file or directory, open './favicon.ico'
+[2024-11-21T09:10:24.062Z] Served: ./bprc.html
+[2024-11-21T09:10:24.089Z] Served: ./script.js
+[2024-11-21T09:10:24.092Z] Served: ./styles.css
+[2024-11-21T09:10:24.138Z] Error serving ./favicon.ico: ENOENT: no such file or directory, open './favicon.ico'
+[2024-11-21T09:10:24.204Z] Served: ./bprc.html
+[2024-11-21T09:10:24.230Z] Served: ./styles.css
+[2024-11-21T09:10:24.235Z] Served: ./script.js
+[2024-11-21T09:10:24.296Z] Error serving ./favicon.ico: ENOENT: no such file or directory, open './favicon.ico'
+[2024-11-21T09:10:25.428Z] Served: ./bprc.html
+[2024-11-21T09:10:25.453Z] Served: ./script.js
+[2024-11-21T09:10:25.454Z] Served: ./styles.css
+[2024-11-21T09:10:25.507Z] Error serving ./favicon.ico: ENOENT: no such file or directory, open './favicon.ico'
+[2024-11-21T09:10:25.580Z] Served: ./bprc.html
+[2024-11-21T09:10:25.596Z] Served: ./script.js
+[2024-11-21T09:10:25.597Z] Served: ./styles.css
+[2024-11-21T09:10:25.657Z] Error serving ./favicon.ico: ENOENT: no such file or directory, open './favicon.ico'
+[2024-11-21T09:10:25.703Z] Served: ./bprc.html
+[2024-11-21T09:10:25.727Z] Served: ./styles.css
+[2024-11-21T09:10:25.729Z] Served: ./script.js
+[2024-11-21T09:10:25.795Z] Error serving ./favicon.ico: ENOENT: no such file or directory, open './favicon.ico'
+[2024-11-21T09:11:26.680Z] Server running at http://localhost:5412
+[2024-11-21T09:11:30.047Z] Served: ./bprc.html
+[2024-11-21T09:11:30.071Z] Served: ./styles.css
+[2024-11-21T09:11:30.073Z] Served: ./script.js
+[2024-11-21T09:11:30.116Z] Error serving ./favicon.ico: ENOENT: no such file or directory, open './favicon.ico'
+[2024-11-21T09:11:30.363Z] Served: ./bprc.html
+[2024-11-21T09:11:30.380Z] Served: ./styles.css
+[2024-11-21T09:11:30.383Z] Served: ./script.js
+[2024-11-21T09:11:30.440Z] Error serving ./favicon.ico: ENOENT: no such file or directory, open './favicon.ico'
+[2024-11-21T09:11:30.515Z] Served: ./bprc.html
+[2024-11-21T09:11:30.537Z] Served: ./script.js
+[2024-11-21T09:11:30.539Z] Served: ./styles.css
+[2024-11-21T09:11:30.586Z] Error serving ./favicon.ico: ENOENT: no such file or directory, open './favicon.ico'
+[2024-11-21T09:11:30.660Z] Served: ./bprc.html
+[2024-11-21T09:11:30.677Z] Served: ./script.js
+[2024-11-21T09:11:30.679Z] Served: ./styles.css
+[2024-11-21T09:11:30.749Z] Error serving ./favicon.ico: ENOENT: no such file or directory, open './favicon.ico'
+[2024-11-21T09:12:51.070Z] Server running at http://localhost:5412
+[2024-11-21T09:12:54.343Z] Served: ./bprc.html
+[2024-11-21T09:12:54.361Z] Served: ./styles.css
+[2024-11-21T09:12:54.364Z] Served: ./script.js
+[2024-11-21T09:12:54.415Z] Error serving ./favicon.ico: ENOENT: no such file or directory, open './favicon.ico'
+[2024-11-21T09:12:54.485Z] Served: ./bprc.html
+[2024-11-21T09:12:54.503Z] Served: ./script.js
+[2024-11-21T09:12:54.507Z] Served: ./styles.css
+[2024-11-21T09:12:54.585Z] Error serving ./favicon.ico: ENOENT: no such file or directory, open './favicon.ico'
+[2024-11-21T09:12:54.615Z] Served: ./bprc.html
+[2024-11-21T09:12:54.643Z] Served: ./styles.css
+[2024-11-21T09:12:54.647Z] Served: ./script.js
+[2024-11-21T09:12:54.706Z] Error serving ./favicon.ico: ENOENT: no such file or directory, open './favicon.ico'
+[2024-11-21T09:17:54.644Z] Served: ./bprc.html
+[2024-11-21T09:17:54.672Z] Served: ./styles.css
+[2024-11-21T09:17:54.674Z] Served: ./script.js
+[2024-11-21T09:17:54.741Z] Error serving ./favicon.ico: ENOENT: no such file or directory, open './favicon.ico'
+[2024-11-21T09:17:55.225Z] Served: ./bprc.html
+[2024-11-21T09:17:55.248Z] Served: ./script.js
+[2024-11-21T09:17:55.249Z] Served: ./styles.css
+[2024-11-21T09:17:55.296Z] Error serving ./favicon.ico: ENOENT: no such file or directory, open './favicon.ico'
+[2024-11-21T09:17:55.479Z] Served: ./bprc.html
+[2024-11-21T09:17:55.506Z] Served: ./script.js
+[2024-11-21T09:17:55.507Z] Served: ./styles.css
+[2024-11-21T09:17:55.549Z] Error serving ./favicon.ico: ENOENT: no such file or directory, open './favicon.ico'
+[2024-11-21T09:19:42.576Z] Server running at http://localhost:5412
+[2024-11-21T09:26:38.247Z] Server running at http://localhost:5412
+[2024-11-21T09:26:49.864Z] Served: ./bprc.html
+[2024-11-21T09:26:49.976Z] Served: ./styles.css
+[2024-11-21T09:26:49.981Z] Served: ./script.js
+[2024-11-21T09:28:01.660Z] Served: ./bprc.html
+[2024-11-21T09:28:01.686Z] Served: ./styles.css
+[2024-11-21T09:28:01.689Z] Served: ./script.js
+[2024-11-21T09:32:10.451Z] Served: ./bprc.html
+[2024-11-21T09:32:10.491Z] Served: ./styles.css
+[2024-11-21T09:32:10.497Z] Served: ./script.js
+[2024-11-21T09:39:23.542Z] Served: ./bprc.html
+[2024-11-21T09:39:23.569Z] Served: ./styles.css
+[2024-11-21T09:39:23.571Z] Served: ./script.js
+[2024-11-21T09:47:59.126Z] Served: ./bprc.html
+[2024-11-21T09:47:59.153Z] Served: ./styles.css
+[2024-11-21T09:47:59.157Z] Served: ./script.js
+[2024-11-21T09:54:01.830Z] Server running at http://localhost:5412
+[2024-11-21T09:54:10.143Z] Served: ./bprc.html
+[2024-11-21T09:54:10.180Z] Served: ./styles.css
+[2024-11-21T09:54:10.185Z] Served: ./script.js
+[2024-11-21T09:54:10.504Z] Served: ./bprc.html
+[2024-11-21T09:54:10.523Z] Served: ./styles.css
+[2024-11-21T09:54:10.527Z] Served: ./script.js
+[2024-11-21T09:54:10.694Z] Served: ./bprc.html
+[2024-11-21T09:54:10.711Z] Served: ./script.js
+[2024-11-21T09:54:10.713Z] Served: ./styles.css
+[2024-11-21T09:55:32.706Z] Server running at http://localhost:5412
+[2024-11-21T09:55:35.928Z] Served: ./bprc.html
+[2024-11-21T09:55:35.983Z] Served: ./styles.css
+[2024-11-21T09:55:35.990Z] Served: ./script.js
+[2024-11-21T09:55:36.239Z] Served: ./bprc.html
+[2024-11-21T09:55:36.278Z] Served: ./script.js
+[2024-11-21T09:55:36.281Z] Served: ./styles.css
+[2024-11-21T09:55:36.408Z] Served: ./bprc.html
+[2024-11-21T09:55:36.442Z] Served: ./styles.css
+[2024-11-21T09:55:36.467Z] Served: ./script.js
+[2024-11-21T09:56:30.350Z] Served: ./bprc.html
+[2024-11-21T09:56:30.381Z] Served: ./styles.css
+[2024-11-21T09:56:30.386Z] Served: ./script.js
+[2024-11-21T09:56:30.665Z] Served: ./bprc.html
+[2024-11-21T09:56:30.693Z] Served: ./styles.css
+[2024-11-21T09:56:30.702Z] Served: ./script.js
+[2024-11-21T09:59:24.247Z] Served: ./bprc.html
+[2024-11-21T09:59:24.277Z] Served: ./styles.css
+[2024-11-21T09:59:24.281Z] Served: ./script.js
+[2024-11-21T10:00:21.667Z] Server running at http://localhost:5412
+[2024-11-21T10:00:27.826Z] Served: ./bprc.html
+[2024-11-21T10:00:27.857Z] Served: ./styles.css
+[2024-11-21T10:00:27.872Z] Served: ./script.js
+[2024-11-21T10:00:28.898Z] Served: ./bprc.html
+[2024-11-21T10:00:28.934Z] Served: ./styles.css
+[2024-11-21T10:00:28.961Z] Served: ./script.js
+[2024-11-21T10:00:29.068Z] Served: ./bprc.html
+[2024-11-21T10:00:29.122Z] Served: ./styles.css
+[2024-11-21T10:00:29.126Z] Served: ./script.js
+[2024-11-21T10:00:29.344Z] Served: ./bprc.html
+[2024-11-21T10:00:29.369Z] Served: ./styles.css
+[2024-11-21T10:00:29.371Z] Served: ./script.js
+[2024-11-21T10:00:29.502Z] Served: ./bprc.html
+[2024-11-21T10:00:29.557Z] Served: ./styles.css
+[2024-11-21T10:00:29.563Z] Served: ./script.js
+[2024-11-21T10:00:29.633Z] Served: ./bprc.html
+[2024-11-21T10:00:29.694Z] Served: ./script.js
+[2024-11-21T10:00:29.698Z] Served: ./styles.css
+[2024-11-21T10:01:44.098Z] Server running at http://localhost:5412
+[2024-11-21T10:01:47.298Z] Served: ./bprc.html
+[2024-11-21T10:01:47.339Z] Served: ./styles.css
+[2024-11-21T10:01:47.360Z] Served: ./script.js
+[2024-11-21T10:01:47.511Z] Served: ./bprc.html
+[2024-11-21T10:01:47.544Z] Served: ./styles.css
+[2024-11-21T10:01:47.548Z] Served: ./script.js
+[2024-11-21T10:01:47.647Z] Served: ./bprc.html
+[2024-11-21T10:01:47.685Z] Served: ./styles.css
+[2024-11-21T10:01:47.688Z] Served: ./script.js
+[2024-11-21T10:01:47.795Z] Served: ./bprc.html
+[2024-11-21T10:01:47.829Z] Served: ./script.js
+[2024-11-21T10:01:47.831Z] Served: ./styles.css
+[2024-11-21T10:01:47.923Z] Served: ./bprc.html
+[2024-11-21T10:01:47.959Z] Served: ./styles.css
+[2024-11-21T10:01:47.986Z] Served: ./script.js
+[2024-11-21T10:01:48.060Z] Served: ./bprc.html
+[2024-11-21T10:01:48.093Z] Served: ./styles.css
+[2024-11-21T10:01:48.095Z] Served: ./script.js
+[2024-11-21T10:04:50.371Z] Served: ./bprc.html
+[2024-11-21T10:04:50.398Z] Served: ./styles.css
+[2024-11-21T10:04:50.418Z] Served: ./script.js
+[2024-11-21T10:04:50.795Z] Served: ./bprc.html
+[2024-11-21T10:04:50.849Z] Served: ./script.js
+[2024-11-21T10:04:50.852Z] Served: ./styles.css
+[2024-11-21T10:04:50.938Z] Served: ./bprc.html
+[2024-11-21T10:04:51.020Z] Served: ./styles.css
+[2024-11-21T10:04:51.024Z] Served: ./script.js
+[2024-11-21T10:04:51.109Z] Served: ./bprc.html
+[2024-11-21T10:04:51.157Z] Served: ./styles.css
+[2024-11-21T10:04:51.161Z] Served: ./script.js
+[2024-11-21T10:12:11.138Z] Served: ./bprc.html
+[2024-11-21T10:12:11.182Z] Served: ./styles.css
+[2024-11-21T10:12:11.191Z] Served: ./script.js
+[2024-11-21T10:12:11.859Z] Served: ./bprc.html
+[2024-11-21T10:12:12.031Z] Served: ./script.js
+[2024-11-21T10:12:12.033Z] Served: ./styles.css
+[2024-11-21T10:12:12.218Z] Served: ./bprc.html
+[2024-11-21T10:12:12.269Z] Served: ./styles.css
+[2024-11-21T10:12:12.286Z] Served: ./script.js
+[2024-11-21T10:27:43.553Z] Server running at http://localhost:5412
+[2024-11-21T10:27:55.999Z] Served: ./bprc.html
+[2024-11-21T10:27:56.047Z] Served: ./styles.css
+[2024-11-21T10:27:56.050Z] Served: ./script.js
+[2024-11-21T10:29:28.866Z] Served: ./bprc.html
+[2024-11-21T10:29:28.965Z] Served: ./styles.css
+[2024-11-21T10:29:28.977Z] Served: ./script.js
+[2024-11-21T10:43:37.709Z] Served: ./bprc.html
+[2024-11-21T10:43:37.748Z] Served: ./styles.css
+[2024-11-21T10:43:37.769Z] Served: ./script.js
+[2024-11-21T10:54:18.257Z] Served: ./bprc.html
+[2024-11-21T10:54:18.316Z] Served: ./styles.css
+[2024-11-21T10:54:18.338Z] Served: ./script.js
+[2024-11-22T03:23:51.904Z] Server running at http://localhost:5412
+[2024-11-22T03:23:59.568Z] Served: ./bprc.html
+[2024-11-22T03:23:59.618Z] Served: ./styles.css
+[2024-11-22T03:23:59.631Z] Served: ./script.js
+[2024-11-22T03:27:48.835Z] Server running at http://localhost:5412
+[2024-11-22T03:27:53.238Z] Served: ./bprc.html
+[2024-11-22T03:27:53.268Z] Served: ./styles.css
+[2024-11-22T03:27:53.273Z] Served: ./script.js
+[2024-11-22T03:27:53.838Z] Served: ./bprc.html
+[2024-11-22T03:27:53.867Z] Served: ./styles.css
+[2024-11-22T03:27:53.870Z] Served: ./script.js
+[2024-11-22T03:27:54.061Z] Served: ./bprc.html
+[2024-11-22T03:27:54.105Z] Served: ./styles.css
+[2024-11-22T03:27:54.108Z] Served: ./script.js
+[2024-11-22T03:38:56.642Z] Server running at http://localhost:5412
+[2024-11-22T03:39:03.357Z] Served: ./bprc.html
+[2024-11-22T03:39:03.389Z] Served: ./styles.css
+[2024-11-22T03:39:03.393Z] Served: ./script.js
+[2024-11-22T03:39:04.054Z] Served: ./bprc.html
+[2024-11-22T03:39:04.110Z] Served: ./styles.css
+[2024-11-22T03:39:04.112Z] Served: ./script.js
+[2024-11-22T03:39:04.209Z] Served: ./bprc.html
+[2024-11-22T03:39:04.231Z] Served: ./script.js
+[2024-11-22T03:39:04.233Z] Served: ./styles.css
+[2024-11-22T03:39:04.362Z] Served: ./bprc.html
+[2024-11-22T03:39:04.378Z] Served: ./styles.css
+[2024-11-22T03:39:04.380Z] Served: ./script.js
+[2024-11-22T03:39:04.501Z] Served: ./bprc.html
+[2024-11-22T03:39:04.527Z] Served: ./script.js
+[2024-11-22T03:39:04.529Z] Served: ./styles.css
+[2024-11-22T04:58:26.219Z] Served: ./bprc.html
+[2024-11-22T04:58:26.256Z] Served: ./styles.css
+[2024-11-22T04:58:26.265Z] Served: ./script.js
+[2024-11-22T05:19:48.996Z] Server running at http://localhost:5412
+[2024-11-22T05:21:00.276Z] Served: ./bprc.html
+[2024-11-22T05:21:00.339Z] Served: ./styles.css
+[2024-11-22T05:21:00.385Z] Served: ./script.js
+[2024-11-24T06:14:14.462Z] Server running at http://localhost:5412
+[2024-11-24T06:16:16.238Z] Served: ./bprc.html
+[2024-11-24T06:16:16.280Z] Served: ./styles.css
+[2024-11-24T06:16:16.283Z] Served: ./script.js
+[2024-11-25T05:04:42.794Z] Server running at http://localhost:5412
+[2024-11-25T05:06:20.842Z] Served: ./bprc.html
+[2024-11-25T05:06:20.907Z] Served: ./styles.css
+[2024-11-25T05:06:20.911Z] Served: ./script.js
+[2024-11-25T05:42:02.888Z] Server running at http://localhost:5412
+[2024-11-25T06:13:59.480Z] Server running at http://localhost:5412
+[2024-11-25T06:40:25.137Z] Server running at http://localhost:5412
+[2024-11-25T06:40:29.171Z] Served: ./bprc.html
+[2024-11-25T06:40:29.205Z] Served: ./styles.css
+[2024-11-25T06:40:29.210Z] Served: ./script.js
+[2024-11-25T08:27:12.768Z] Server running at http://localhost:5412
+[2024-11-25T08:27:19.723Z] Served: ./bprc.html
+[2024-11-25T08:27:19.757Z] Served: ./styles.css
+[2024-11-25T08:27:19.764Z] Served: ./script.js
+[2024-11-25T08:27:21.233Z] Served: ./bprc.html
+[2024-11-25T08:27:21.259Z] Served: ./script.js
+[2024-11-25T08:27:21.261Z] Served: ./styles.css
+[2024-11-25T08:27:21.384Z] Served: ./bprc.html
+[2024-11-25T08:27:21.400Z] Served: ./script.js
+[2024-11-25T08:27:21.402Z] Served: ./styles.css
+[2024-11-25T08:27:21.527Z] Served: ./bprc.html
+[2024-11-25T08:27:21.614Z] Served: ./styles.css
+[2024-11-25T08:27:21.617Z] Served: ./script.js
+[2024-11-25T08:37:04.351Z] Server running at http://localhost:5412
+[2024-11-26T09:36:52.477Z] Server running at http://localhost:5412
+[2024-11-26T09:36:55.154Z] Served: ./bprc.html
+[2024-11-26T09:36:55.199Z] Served: ./styles.css
+[2024-11-26T09:36:55.202Z] Served: ./script.js
+[2024-11-27T08:26:38.859Z] Server running at http://localhost:5412
+[2024-11-27T08:26:44.089Z] Served: ./bprc.html
+[2024-11-27T08:26:44.145Z] Served: ./styles.css
+[2024-11-27T08:26:44.155Z] Served: ./script.js
+[2024-11-27T08:30:40.909Z] Served: ./bprc.html
+[2024-11-27T08:30:40.958Z] Served: ./bprc.html
+[2024-11-27T08:30:40.962Z] Served: ./script.js
+[2024-11-27T08:30:40.965Z] Served: ./styles.css
+[2024-11-27T08:30:41.124Z] Served: ./script.js
+[2024-11-27T08:30:41.129Z] Served: ./styles.css
+[2024-11-27T08:30:41.132Z] Served: ./bprc.html
+[2024-11-27T08:30:41.247Z] Served: ./bprc.html
+[2024-11-27T08:30:41.368Z] Served: ./bprc.html
+[2024-11-27T08:30:41.425Z] Served: ./script.js
+[2024-11-27T08:30:41.427Z] Served: ./styles.css
+[2024-11-27T08:30:41.578Z] Served: ./bprc.html
+[2024-11-27T08:30:41.613Z] Served: ./script.js
+[2024-11-27T08:30:41.616Z] Served: ./styles.css
+[2024-12-01T05:36:36.282Z] Server running at http://localhost:5412
+[2024-12-01T05:36:38.840Z] Served: ./bprc.html
+[2024-12-01T05:36:38.915Z] Served: ./styles.css
+[2024-12-01T05:36:38.919Z] Served: ./script.js
+[2024-12-02T08:55:44.326Z] Server running at http://localhost:5412
+[2024-12-02T08:55:45.157Z] Served: ./bprc.html
+[2024-12-02T08:55:45.200Z] Served: ./script.js
+[2024-12-02T08:55:45.203Z] Served: ./styles.css
+[2024-12-03T03:44:03.438Z] Server running at http://localhost:5412
+[2024-12-03T03:44:05.166Z] Served: ./bprc.html
+[2024-12-03T03:44:05.222Z] Served: ./styles.css
+[2024-12-03T03:44:05.226Z] Served: ./script.js
+[2024-12-05T04:30:02.242Z] Server running at http://localhost:5412
+[2024-12-05T04:35:26.668Z] Served: ./bprc.html
+[2024-12-05T04:35:26.713Z] Served: ./styles.css
+[2024-12-05T04:35:26.716Z] Served: ./script.js
+[2024-12-05T05:26:31.408Z] Server running at http://localhost:5412
+[2024-12-05T10:18:05.084Z] Server running at http://localhost:5412
+[2024-12-05T10:22:07.970Z] Server running at http://localhost:5412
+[2024-12-10T03:21:58.470Z] Server running at http://localhost:5412
+[2024-12-10T04:07:58.758Z] Served: ./bprc.html
+[2024-12-10T04:07:58.834Z] Served: ./styles.css
+[2024-12-10T04:07:58.837Z] Served: ./script.js
+[2024-12-10T10:33:04.354Z] Server running at http://localhost:5412
+[2024-12-10T10:36:59.064Z] Server running at http://localhost:5412
+[2024-12-10T10:38:27.922Z] Server running at http://localhost:5413
+[2024-12-10T10:38:46.588Z] Served: ./bprc.html
+[2024-12-10T10:38:46.640Z] Served: ./styles.css
+[2024-12-10T10:38:46.641Z] Served: ./script.js
+[2024-12-11T03:26:53.358Z] Server running at http://localhost:5413
+[2024-12-11T04:02:42.482Z] Server running at http://localhost:5413
+[2024-12-11T04:03:42.018Z] Server running at http://localhost:5413
+[2024-12-11T04:03:53.905Z] Served: ./bprc.html
+[2024-12-11T04:03:54.004Z] Served: ./styles.css
+[2024-12-11T04:03:54.008Z] Served: ./script.js
+[2024-12-11T08:59:15.184Z] Server running at http://localhost:5413
+[2024-12-11T10:03:23.171Z] Server running at http://localhost:5413
+[2024-12-11T10:03:34.035Z] Served: ./bprc.html
+[2024-12-11T10:03:34.088Z] Served: ./styles.css
+[2024-12-11T10:03:34.091Z] Served: ./script.js
+[2024-12-13T06:30:12.370Z] Server running at http://localhost:5413
+[2024-12-17T05:56:39.256Z] Server running at http://localhost:5413
+[2024-12-17T05:56:40.407Z] Served: ./bprc.html
+[2024-12-17T05:56:40.463Z] Served: ./styles.css
+[2024-12-17T05:56:40.486Z] Served: ./script.js
+[2024-12-17T05:58:25.591Z] Served: ./bprc.html
+[2024-12-17T05:58:25.657Z] Served: ./styles.css
+[2024-12-17T05:58:25.670Z] Served: ./script.js
+[2024-12-17T06:54:38.957Z] Served: ./bprc.html
+[2024-12-17T06:54:38.998Z] Served: ./styles.css
+[2024-12-17T06:54:39.031Z] Served: ./script.js
+[2024-12-18T03:38:00.885Z] Server running at http://localhost:5413
+[2024-12-18T03:38:15.243Z] Served: ./bprc.html
+[2024-12-18T03:38:15.307Z] Served: ./styles.css
+[2024-12-18T03:38:15.309Z] Served: ./script.js
+[2024-12-18T03:40:57.322Z] Served: ./bprc.html
+[2024-12-18T03:40:57.362Z] Served: ./styles.css
+[2024-12-18T03:40:57.364Z] Served: ./script.js
+[2024-12-19T05:12:11.540Z] Server running at http://localhost:5413
